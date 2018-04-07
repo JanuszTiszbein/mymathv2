@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523121656 source:d:\aa\documents\mymath.cpp
+	<iostream>
+	<cmath>
+
+1514144174 source:d:\informatyka\mymathv2\main.cpp
+	<iostream>
+
+1523120753 source:d:\aa\documents\main.cpp
+	<cmath>
+	<iostream>
+	"mymath.h"
+
+1523120700 d:\aa\documents\mymath.h
+
